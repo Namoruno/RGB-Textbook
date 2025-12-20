@@ -1,6 +1,6 @@
 # RGB-Textbook
 <p align="center">
-  <img src="redbluegreencover.png" width="50%" alt="RGB Textbook Cover">
+  <img src="RedGreenBlue.png" width="50%" alt="RGB Textbook Cover">
 </p>
 
 ### Purpose
