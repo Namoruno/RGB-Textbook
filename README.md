@@ -14,7 +14,7 @@ I'm Roman, an aspiring author from Virginia (USA) and enthusiast of many discipl
 ### Any suggestions?
 Feel free to contact me at my personal email **rmnrand@gmail.com**, starting your message with "RGB".
 
-## Sample, Introduction.
+## Sample, Snippet of Introduction
 Red Green Blue (RGB) is the lowest level observed within both classical and contemporary Test Driven Development (TDD). It’s the process of fail, suffice, refactor. When applied properly, development is a loop that starts with criteria, and ends with features. When we all start learning to develop without aim, there are many things that can clutter the mind, such as regressive issues, that will grind productivity to a halt. These issues can be prevented and it all starts with the familiar colors: Red, Green, and Blue.
 
 ### ~ Red ~ 
