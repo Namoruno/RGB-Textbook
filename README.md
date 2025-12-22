@@ -19,7 +19,8 @@ Feel free to contact me at my personal email **rmnrand@gmail.com**, starting you
 <a href="https://editor.reedsy.com/s/Iq9jdle">You can also read the *current* draft here!</a>  
 Currently a collection of blurbs, April 2026 is expected to be at "Rough Draft" stage.
 
-## What’s with the colors? -- snippet of Introduction
+# Sample Text
+## What’s with the colors?
 #### The main idea.
 In my time as a software developer, I’ve been absorbed in textbooks. Book after book I have found more than knowledge — I’ve found steady ground.  
 &nbsp; &nbsp; For instance, “Growing Object-Oriented Software, Guided by Tests” by Steve Freeman and Nat Pryce, whose brilliance I hone into my own oh-so humble prose and directly cultivated the imaginative idea for this book. While the vast readings and overwhelming theoretical compared to applicable knowledge may strike my confidence, the repertoire of textbooks often soothes the imposter syndrome that all of us in the industry have felt, over the long term. That is to say, we’re not all posers, but even if you are this book is for you.  
