@@ -16,8 +16,7 @@ I'm Roman, an aspiring author from Virginia (USA) - and enthusiast of many disci
 ### Any suggestions?
 Feel free to contact me at my personal email **rmnrand@gmail.com**, starting your message with "RGB".
 
-## Sample, Snippet of Introduction
-Red Green Blue (RGB) is the lowest level observed within both classical and contemporary Test Driven Development (TDD). It’s the process of fail, suffice, refactor. When applied properly, development is a loop that starts with criteria, and ends with features. When we all start learning to develop without aim, there are many things that can clutter the mind, such as regressive issues, that **will** grind productivity to a halt. These issues can be prevented and it all starts with the familiar colors: Red, Green, and Blue.
-
-### ~ Red ~ 
-Red might describe rejection, criticism, or failure. These are the worst parts of development, but they prove critical. In TDD, red describes the step of setting tests, that must fail, before adding new features. This verifies that nothing stands against the tasks of new features, an ultimate task list — if you will. In layman’s terms, criteria defines development objectives, and when cultivated before production of features it eliminates wasteful or excessive code, demands modularity, and naturally proctors future refactoring — all without regressive issues.
+## What’s with the colors?
+Red Green Blue (RGB) is the lowest ‘loop’ observed within both classical and contemporary Test Driven Development (TDD). It’s the process of fail, suffice, refactor.
+ When applied properly, development is a loop that starts with criteria,  and ends with features. There are many things that can clutter the mind, such as regressive issues, that will grind productivity to a halt. These issues can be prevented and it all starts with the familiar colors; Red, Green, and Blue. 
+Though testing at it’s core is simple, it proves difficult for beginning developers to pick up. It’s not like we’re teaching anyone to test their “Hello World” programs, and why would we, but it begs the question of where on the road map tests become imperative. Within traditional collegiate study,  it’s often further neglected without a single dedicated textbook 4 year plans. A mere section of a textbook can go without finding itself on a final exam, it’s study guide, or the slides a teacher presents in class — which results in significantly delayed utilization of TDD.
