@@ -19,8 +19,7 @@ Feel free to contact me at my personal email **rmnrand@gmail.com**, starting you
 <a href="https://editor.reedsy.com/s/Iq9jdle">You can also read the *current* draft here!</a>  
 Currently a collection of blurbs, April 2026 is expected to be at "Rough Draft" stage.
 
-# Sample Text
-## Introduction
+## Sample Text : (Introduction)
 #### How the book came to be.
 In my time as a software developer, I’ve been absorbed in textbooks. Book after book I have found more than knowledge — I’ve found steady ground.  
 &nbsp; &nbsp;For instance, every day I hone a little bit of “Growing Object-Oriented Software, Guided by Tests” by Steve Freeman and Nat Pryce, into my own oh-so humble prose. It’s from my readings that I’ve gathered the imaginative idea for this book. Overall the repertoire of textbooks often soothes the imposter syndrome that all of us in the industry have felt. That is to say, we’re not all posers, but even if you are this book is for you.  
