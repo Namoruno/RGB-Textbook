@@ -1,4 +1,3 @@
-# RGB-Textbook
 <p align="center">
   <img src="RedGreenBlueCover3.png" width="50%" alt="RGB Textbook Cover">
 </p>
