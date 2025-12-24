@@ -1,11 +1,11 @@
 <style>
-#header {
-  display: none !important;
-}
-
-body {
-  background-color: #000000 !important;
-}
+  #header {
+    display: none !important;
+  }
+  
+  body {
+    background-color: #000000 !important;
+  }
 </style>
 
 ### Purpose  
