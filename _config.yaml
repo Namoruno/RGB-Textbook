@@ -1,0 +1,6 @@
+theme: minima  # or any other Jekyll theme
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
