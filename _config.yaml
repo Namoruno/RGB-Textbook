@@ -1,7 +1,0 @@
-# _config.yml
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-
-# Set the light gray color scheme ("skin")
-minimal_mistakes_skin: "air" # Options: default, air, contrast, neon, etc.
